@@ -1,1 +1,1 @@
-web: gunicorn SDLY1S1Week12:<app>
+web: gunicorn SDLY1S1Week12:app
